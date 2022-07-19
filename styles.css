@@ -1,1 +1,37 @@
 /* Write your CSS here! */
+body {
+    background-color: beige;
+    margin: 8px;
+    display: block;
+  }
+  nav {
+    margin: auto;
+    padding: 25px;
+  }
+  h1 {
+    margin: auto;
+    padding: 25px;
+    color: black;
+  }
+  h2 {
+    margin: auto;
+    padding: 25px;
+    color: navy;
+  }
+  
+  .funParagraph {
+    color: green;
+    margin: auto;
+    padding: 25px;
+  }
+  
+  img{
+      border-radius: 10px;
+      width: 500px;
+      height: auto;
+  
+  }
+  
+  #mainHeading {
+    color: red;
+  }
