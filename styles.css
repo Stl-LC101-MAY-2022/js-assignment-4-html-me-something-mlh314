@@ -18,14 +18,18 @@ body {
     padding: 25px;
     color: navy;
   }
-  
-  .funParagraph {
-    color: green;
-    margin: auto;
-    padding: 25px;
+  .body-paragraph {
+    font-size: 20px;
   }
   
-  img{
+  .funParagraph {
+    color:green;
+    margin: auto;
+    padding: 25px;
+    font-size: 20px;
+  }
+  
+  img {
       border-radius: 10px;
       width: 500px;
       height: auto;
